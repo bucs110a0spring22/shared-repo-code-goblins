@@ -5,6 +5,6 @@
 
 ## Team Members
 
-* Team Member 1:
-* Team Member 2:
-* Team Member 3:
+* Team Member 1: Tajrean Ahmed
+* Team Member 2: Evan Liu
+* Team Member 3: Walter Hoess
